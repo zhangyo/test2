@@ -11,5 +11,6 @@ public class Main {
         System.out.println("more change in branch1!");
         System.out.println("rebase 1 changes");
         System.out.println("rebase 3 changes in master");
+        System.out.println("rebase 4 changes in master");
     }
 }
