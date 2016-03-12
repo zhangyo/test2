@@ -6,5 +6,8 @@ public class Main {
         System.out.println("A change in hotfix");
         System.out.println("2nd change in hotfix");
         System.out.println("3nd change in hotfix");
+        System.out.println("Hello Everyone!");
+        System.out.println("my change in branch1!");
+        System.out.println("more change in branch1!");
     }
 }
